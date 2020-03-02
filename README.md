@@ -7,6 +7,5 @@ Criação de um app que se assemelha ao jogo original FlappyBird, usando a bibli
 <ul>
 <li>Java</li>
 <li>lib GDX</li>
-<li>Android</li>
 <li>Android Studio</li>
 </ul>
