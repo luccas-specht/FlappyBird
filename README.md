@@ -9,3 +9,6 @@ Criação de um app que se assemelha ao jogo original FlappyBird, usando a bibli
 <li>lib GDX</li>
 <li>Android Studio</li>
 </ul>
+
+
+![flappygif0](https://user-images.githubusercontent.com/40741571/76031033-9fe8af80-5f15-11ea-813b-192f85224259.gif)
