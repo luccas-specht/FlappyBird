@@ -12,3 +12,7 @@ Criação de um app que se assemelha ao jogo original FlappyBird, usando a bibli
 
 
 ![flappygif0](https://user-images.githubusercontent.com/40741571/76031033-9fe8af80-5f15-11ea-813b-192f85224259.gif)
+
+
+
+![flappygif1](https://user-images.githubusercontent.com/40741571/76031113-ce668a80-5f15-11ea-95db-23b33b23e7db.gif)
