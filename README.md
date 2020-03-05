@@ -10,8 +10,9 @@ Criação de um app que se assemelha ao jogo original FlappyBird, usando a bibli
 <li>Android Studio</li>
 </ul>
 
-<h2>:celphone: Game</h2>
+<h2>:video_game: Game</h2>
 <ul>
+  
 ![flappygif0a](https://user-images.githubusercontent.com/40741571/76031311-3ddc7a00-5f16-11ea-8da7-f390337fcb1f.gif)
 
 
